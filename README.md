@@ -1,2 +1,2 @@
 # Image-compressor
-Reduces the resolution of an image to make it smaller when compressed.
+The code will take an image and reduce the resolution, making the image look like it has been compressed.
